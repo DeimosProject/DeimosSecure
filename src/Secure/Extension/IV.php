@@ -11,7 +11,7 @@ trait IV
      *
      * @var string
      */
-    private $iv;
+    private $iv = '_gPuZWJ/Tm^1!y4d';
 
     /**
      * @param string $value

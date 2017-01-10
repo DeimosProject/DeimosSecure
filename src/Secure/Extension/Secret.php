@@ -10,7 +10,7 @@ trait Secret
      *
      * @var string
      */
-    private $secret = 'MTNE]8Gpz&B709%yXDQ1[4.k!#\';n}Pu-hvU&mK{?dlSoxg:s/qab"C@FV6HR,*t';
+    private $secret;
 
     /**
      * @param string $value

@@ -1,5 +1,5 @@
 source:
-  - ./src/Secure
+  - ./src
 destination: ./docs
 internal: yes
 php: no
